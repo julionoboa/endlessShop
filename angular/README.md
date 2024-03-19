@@ -1,27 +1,36 @@
-# EndlessShopTemplate
+# Bienvenido a Endless Shop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
+Endless Shop es un gestor de tiendas virtuales que te permite crear y administrar tu propia tienda en línea de manera fácil y rápida.
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Características
 
-## Code scaffolding
+- **Creación de tiendas personalizadas**: Endless Shop te ofrece la posibilidad de configurar tu tienda virtual según tus preferencias y necesidades específicas.
+- **Gestión de productos**: Agrega, edita y elimina productos de tu catálogo de manera sencilla.
+- **Proceso de compra intuitivo**: Ofrece a tus clientes una experiencia de compra fluida y segura.
+- **Personalización avanzada**: Personaliza el diseño y la apariencia de tu tienda para reflejar la identidad de tu marca.
+- **Gestión de pedidos y ventas**: Realiza un seguimiento de tus pedidos y ventas en tiempo real desde un panel de control intuitivo.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+## Empezar
 
-## Build
+¡Crear tu propia tienda en Endless Shop es fácil! Simplemente sigue estos pasos:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+1. **Registro**: Regístrate en Endless Shop para obtener una cuenta de usuario.
+2. **Configuración de la tienda**: Personaliza tu tienda según tus necesidades.
+3. **Agrega productos**: Completa tu catálogo agregando productos a tu tienda.
+4. **Promoción y venta**: Promociona tu tienda y productos para atraer clientes y aumentar las ventas.
 
-## Running unit tests
+## Capturas de pantalla
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- *Próximamente*
 
-## Running end-to-end tests
+## Documentación
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+- *Próximamente*
 
-## Further help
+## Licencia
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+MIT.
+
+---
+
+Creado por: Grupo 4 Prog III, ITLA.
