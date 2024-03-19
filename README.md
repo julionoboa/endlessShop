@@ -1,37 +1,36 @@
-# Important
+# Bienvenido a Endless Shop
 
-Issues of this repository are tracked on https://github.com/aspnetboilerplate/aspnetboilerplate. Please create your issues on https://github.com/aspnetboilerplate/aspnetboilerplate/issues.
+Endless Shop es un gestor de tiendas virtuales que te permite crear y administrar tu propia tienda en línea de manera fácil y rápida.
 
-# Introduction
+## Características
 
-This is a template to create **ASP.NET Core MVC / Angular** based startup projects for [ASP.NET Boilerplate](https://aspnetboilerplate.com/Pages/Documents). It has 2 different versions:
+- **Creación de tiendas personalizadas**: Endless Shop te ofrece la posibilidad de configurar tu tienda virtual según tus preferencias y necesidades específicas.
+- **Gestión de productos**: Agrega, edita y elimina productos de tu catálogo de manera sencilla.
+- **Proceso de compra intuitivo**: Ofrece a tus clientes una experiencia de compra fluida y segura.
+- **Personalización avanzada**: Personaliza el diseño y la apariencia de tu tienda para reflejar la identidad de tu marca.
+- **Gestión de pedidos y ventas**: Realiza un seguimiento de tus pedidos y ventas en tiempo real desde un panel de control intuitivo.
 
-1. [ASP.NET Core MVC & jQuery](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core) (server rendered multi-page application).
-2. [ASP.NET Core & Angular](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular) (single page application).
- 
-User Interface is based on [AdminLTE theme](https://github.com/ColorlibHQ/AdminLTE).
- 
-# Download
+## Empezar
 
-Create & download your project from https://aspnetboilerplate.com/Templates
+¡Crear tu propia tienda en Endless Shop es fácil! Simplemente sigue estos pasos:
 
-# Screenshots
+1. **Registro**: Regístrate en Endless Shop para obtener una cuenta de usuario.
+2. **Configuración de la tienda**: Personaliza tu tienda según tus necesidades.
+3. **Agrega productos**: Completa tu catálogo agregando productos a tu tienda.
+4. **Promoción y venta**: Promociona tu tienda y productos para atraer clientes y aumentar las ventas.
 
-#### Sample Dashboard Page
-![](_screenshots/module-zero-core-template-ui-home.png)
+## Capturas de pantalla
 
-#### User Creation Modal
-![](_screenshots/module-zero-core-template-ui-user-create-modal.png)
+- *Próximamente*
 
-#### Login Page
+## Documentación
 
-![](_screenshots/module-zero-core-template-ui-login.png)
+- *Próximamente*
 
-# Documentation
+## Licencia
 
-* [ASP.NET Core MVC & jQuery version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core)
-* [ASP.NET Core & Angular  version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular)
+MIT.
 
-# License
+---
 
-[MIT](LICENSE).
+Creado por: Grupo 4 Prog III, ITLA.
